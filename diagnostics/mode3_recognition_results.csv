@@ -1,0 +1,37 @@
+timestamp,trial_index,condition,expected_name,final_name,final_confidence,final_backend,dominant_state,observed_state_counts,recognition_attempts,confirmed_match_frames,distance_mean,distance_min,distance_max,mode3_decision,expected_match
+2026-05-14T14:39:42,1,unspecified,,02,81.9,DeepEmbedding_L2,mask_glasses,mask_glasses=23,12,7,0.1977,0.1146,0.3552,pass_direct,
+2026-05-14T14:39:52,2,unspecified,,02,80.7,DeepEmbedding_L2,mask_glasses,glasses=6; mask_glasses=33,20,7,0.2428,0.1726,0.4084,pass_direct,
+2026-05-14T14:40:25,3,unspecified,,02,81.5,DeepEmbedding_L2,mask_glasses,glasses=9; mask_glasses=130,69,7,0.1882,0.0858,0.2756,pass_direct,
+2026-05-14T14:40:52,4,unspecified,,02,67.3,DeepEmbedding_L2,mask_glasses,glasses=19; mask=4; mask_glasses=95; normal=3,61,7,0.3174,0.1560,0.4174,review_zone,
+2026-05-14T14:41:16,5,unspecified,,02,82.3,DeepEmbedding_L2,mask_glasses,glasses=14; mask=7; mask_glasses=82,52,7,0.2266,0.0821,0.4153,pass_direct,
+2026-05-14T16:10:55,1,unspecified,,02,73.7,DeepEmbedding_L2 (glasses),normal,glasses=70; normal=111,65,7,0.2606,0.1473,0.3459,pass_direct,
+2026-05-14T16:10:59,2,unspecified,,02,88.3,DeepEmbedding_L2 (glasses),glasses,glasses=19; normal=4,12,7,0.1681,0.0925,0.2892,pass_direct,
+2026-05-14T16:11:09,3,unspecified,,02,75.8,DeepEmbedding_L2 (glasses),glasses,glasses=34; normal=23,27,7,0.1693,0.0874,0.2662,pass_direct,
+2026-05-14T16:11:13,4,unspecified,,02,83.6,DeepEmbedding_L2,normal,glasses=2; normal=17,10,7,0.1869,0.1288,0.2757,pass_direct,
+2026-05-14T16:11:26,5,unspecified,,02,68.6,DeepEmbedding_L2,normal,glasses=13; normal=58,36,4,0.2039,0.1096,0.3679,pass_direct,
+2026-05-14T16:49:14,1,unspecified,,02,83.5,DeepEmbedding_L2,normal,glasses=122; normal=179,20,7,0.2261,0.1073,0.3539,pass_direct,
+2026-05-14T16:49:50,2,unspecified,,02,63.5,DeepEmbedding_L2,glasses,glasses=321; normal=300,39,5,0.2649,0.1282,0.4053,review_zone,
+2026-05-14T16:49:55,3,unspecified,,02,84.2,DeepEmbedding_L2,normal,normal=25,13,7,0.1972,0.1395,0.2853,pass_direct,
+2026-05-14T16:49:59,4,unspecified,,02,80.5,DeepEmbedding_L2,normal,normal=25,13,7,0.1923,0.1207,0.2310,pass_direct,
+2026-05-14T16:50:02,5,unspecified,,02,83.1,DeepEmbedding_L2,normal,normal=17,9,7,0.1855,0.1002,0.2729,pass_direct,
+2026-05-14T16:51:25,1,unspecified,,02,69.7,DeepEmbedding_L2,normal,glasses=7; normal=30,17,7,0.2996,0.2472,0.3436,pass_direct,
+2026-05-14T16:51:29,2,unspecified,,02,75.1,DeepEmbedding_L2,normal,glasses=2; normal=25,14,7,0.2628,0.2083,0.3218,pass_direct,
+2026-05-14T16:51:33,3,unspecified,,02,72.3,DeepEmbedding_L2,normal,normal=27,14,7,0.2784,0.1766,0.3304,pass_direct,
+2026-05-14T16:51:37,4,unspecified,,02,73.6,DeepEmbedding_L2,normal,normal=27,14,7,0.2761,0.2060,0.3186,pass_direct,
+2026-05-14T16:51:41,5,unspecified,,02,76.2,DeepEmbedding_L2,normal,normal=25,13,7,0.2553,0.2174,0.2993,pass_direct,
+2026-05-14T16:54:47,1,unspecified,,02,76.9,DeepEmbedding_L2,normal,glasses=267; mask=88; normal=1150,96,7,14.5835,0.1281,157.6336,pass_direct,
+2026-05-14T16:54:51,2,unspecified,,02,71.5,DeepEmbedding_L2,normal,normal=27,14,7,0.2571,0.1623,0.3755,pass_direct,
+2026-05-14T16:54:55,3,unspecified,,02,65.9,DeepEmbedding_L2,normal,normal=21,11,7,0.3290,0.2645,0.3979,review_zone,
+2026-05-14T16:55:00,4,unspecified,,02,71.7,DeepEmbedding_L2,normal,normal=25,13,7,0.2993,0.2385,0.3495,pass_direct,
+2026-05-14T16:55:04,5,unspecified,,02,75.2,DeepEmbedding_L2,normal,normal=25,13,7,0.2539,0.1677,0.3200,pass_direct,
+2026-05-14T17:08:28,1,unspecified,,02,72.6,DeepEmbedding_L2,normal,glasses=43; normal=74,19,7,0.3246,0.2303,0.5743,pass_direct,
+2026-05-14T17:08:32,2,unspecified,,02,70.8,DeepEmbedding_L2,normal,normal=27,14,7,0.2934,0.2687,0.3176,pass_direct,
+2026-05-14T17:08:36,3,unspecified,,02,63.8,DeepEmbedding_L2,normal,normal=21,11,7,0.3493,0.2933,0.3847,review_zone,
+2026-05-14T17:08:40,4,unspecified,,02,67.4,DeepEmbedding_L2,normal,normal=25,13,7,0.3424,0.2920,0.4454,review_zone,
+2026-05-14T19:52:42,1,real_mask_glasses,01,02,68.8,DeepEmbedding_L2,normal,normal=15,8,7,0.3134,0.2613,0.3398,pass_direct,no
+2026-05-14T19:52:54,1,real_mask_glasses,01,02,70.6,DeepEmbedding_L2,normal,normal=21,11,7,0.3077,0.2598,0.3582,pass_direct,no
+2026-05-14T19:56:07,1,real_mask_glasses,01,02,71.3,DeepEmbedding_L2,normal,normal=23,12,7,0.3020,0.2661,0.4541,pass_direct,no
+2026-05-14T19:56:11,2,real_mask_glasses,01,02,67.9,DeepEmbedding_L2,normal,normal=27,14,7,0.3061,0.2724,0.3392,review_zone,no
+2026-05-14T19:56:41,3,real_mask_glasses,01,Unknown,0.0,Confused_Margin,normal,normal=47,24,0,0.3332,0.2901,0.4186,unknown_or_rejected,no
+2026-05-14T19:56:46,4,real_mask_glasses,01,Unknown,0.0,Confused_Margin,normal,normal=31,16,0,,,,unknown_or_rejected,no
+2026-05-14T19:56:51,5,real_mask_glasses,01,Unknown,0.0,Confused_Margin,normal,normal=25,13,0,,,,unknown_or_rejected,no
