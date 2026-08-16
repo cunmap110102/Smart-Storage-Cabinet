@@ -1,0 +1,41 @@
+thoi_gian,hanh_dong,ten_tu,do_tin_cay,co_che_xac_thuc,trang_thai_sau,canh_bao,anh_su_kien,ghi_chu
+2026-05-19T15:33:45,Dang ky thanh cong,01,100.0,Capture + PC Mode + Train,Dang su dung,Khong,event_snapshots\20260519_153345_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-19T15:34:07,Lay do tam thoi,01,70.6,UpperFace_mask + PC Mode,Dang su dung,Khong,event_snapshots\20260519_153407_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T15:34:17,Lay do tam thoi,01,74.2,UpperFace_mask + PC Mode,Dang su dung,Khong,event_snapshots\20260519_153417_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T15:34:31,Lay do tam thoi,01,71.1,DeepEmbedding_L2 (glasses) + PC Mode,Dang su dung,Khong,event_snapshots\20260519_153431_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T15:34:41,Lay do tam thoi,01,81.4,DeepEmbedding_L2 + PC Mode,Dang su dung,Khong,event_snapshots\20260519_153441_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:29:56,Admin ep xoa,01,0.0,Unavailable,Con trong,Khong,,Admin da ep xoa du lieu tu 01; van tay khong san sang
+2026-05-19T17:31:07,Dang ky thanh cong,01,100.0,Capture + PC Mode + Train,Dang su dung,Khong,event_snapshots\20260519_173107_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-19T17:31:28,Admin ep xoa,01,0.0,Mode 3 PC,Con trong,Khong,,Admin da ep xoa du lieu tu 01; bo qua van tay (Mode 3)
+2026-05-19T17:31:48,Dang ky thanh cong,01,100.0,Capture + PC Mode + Train,Dang su dung,Khong,event_snapshots\20260519_173148_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-19T17:37:05,Admin ep xoa,01,0.0,Mode 3 PC,Con trong,Khong,,Admin da ep xoa du lieu tu 01; bo qua van tay (Mode 3)
+2026-05-19T17:38:10,Dang ky thanh cong,01,100.0,Capture + PC Mode + Train,Dang su dung,Khong,event_snapshots\20260519_173810_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-19T17:38:37,Lay do tam thoi,01,73.5,DeepEmbedding_L2 (glasses) + PC Mode,Dang su dung,Khong,event_snapshots\20260519_173837_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:38:46,Lay do tam thoi,01,71.8,UpperFace_mask + PC Mode,Dang su dung,Khong,event_snapshots\20260519_173846_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:38:59,Lay do tam thoi,01,71.6,DeepEmbedding_L2 (glasses) + PC Mode,Dang su dung,Khong,event_snapshots\20260519_173859_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:39:19,Admin ep xoa,01,0.0,Mode 3 PC,Con trong,Khong,,Admin da ep xoa du lieu tu 01; bo qua van tay (Mode 3)
+2026-05-19T17:40:34,Dang ky thanh cong,01,100.0,Capture + PC Mode + Train,Dang su dung,Khong,event_snapshots\20260519_174034_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-19T17:40:55,Lay do tam thoi,01,72.8,DeepEmbedding_L2 (glasses) + PC Mode,Dang su dung,Khong,event_snapshots\20260519_174055_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:41:04,Lay do tam thoi,01,70.8,UpperFace_mask + PC Mode,Dang su dung,Khong,event_snapshots\20260519_174104_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:41:20,Lay do tam thoi,01,69.6,DeepEmbedding_L2 (glasses) + PC Mode,Dang su dung,Khong,event_snapshots\20260519_174120_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-19T17:41:30,Lay do tam thoi,01,79.8,DeepEmbedding_L2 + PC Mode,Dang su dung,Khong,event_snapshots\20260519_174130_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-21T14:13:08,Admin ep xoa,01,0.0,Unavailable,Con trong,Khong,,Admin da ep xoa du lieu tu 01; van tay khong san sang
+2026-05-21T14:14:18,Dang ky thanh cong,01,100.0,Capture + PC Mode + Train,Dang su dung,Khong,event_snapshots\20260521_141418_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-21T14:14:52,Tu choi lay do,01,64.3,DeepEmbedding_L2 (glasses) + Recheck,Khong doi,Theo doi,event_snapshots\20260521_141452_take_rejected_01.jpg,Xac minh bo sung ra dung tu nhung do tin cay van chua du (64.3% < 65.0%).
+2026-05-21T14:15:11,Lay do tam thoi,01,73.1,UpperFace_mask_glasses + Recheck + PC Mode,Dang su dung,Khong,event_snapshots\20260521_141511_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-21T14:15:20,Tu choi lay do,Unknown,0.0,DeepEmbedding_L2 (glasses),Khong doi,Theo doi,event_snapshots\20260521_141520_take_rejected_Unknown.jpg,Khong xac thuc duoc nguoi lay do bang khuon mat.
+2026-05-21T14:15:29,Lay do tam thoi,01,69.9,DeepEmbedding_L2 (glasses) + PC Mode,Dang su dung,Khong,event_snapshots\20260521_141529_take_temporary_01.jpg,Lay do tam thoi thanh cong
+2026-05-21T15:56:36,Admin ep xoa,02,0.0,Mode 3 PC,Con trong,Khong,,Admin da ep xoa du lieu tu 02; bo qua van tay (Mode 3)
+2026-05-21T15:56:40,Admin ep xoa,01,0.0,Mode 3 PC,Con trong,Khong,,Admin da ep xoa du lieu tu 01; bo qua van tay (Mode 3)
+2026-05-21T15:56:55,Dang ky that bai,01,0.0,Capture,Khong doi,Khong,,Khong chup duoc mau hop le
+2026-05-21T15:57:56,Admin ep xoa,01,0.0,Adafruit UART,Con trong,Khong,,Admin da ep xoa du lieu tu 01; da xoa van tay
+2026-05-21T15:58:25,Huy gui do,,0.0,,Khong doi,Khong,,Nguoi dung huy thao tac gui do
+2026-05-21T15:58:56,Dang ky that bai,01,0.0,Face + Fingerprint,Khong doi,Khong,event_snapshots/20260521_155856_register_failed_01.jpg,Hai lan quet van tay khong giong nhau.
+2026-05-21T16:01:05,Huy gui do,,0.0,,Khong doi,Khong,,Nguoi dung huy thao tac gui do
+2026-05-21T16:03:20,Huy gui do,,0.0,,Khong doi,Khong,,Nguoi dung huy thao tac gui do
+2026-05-21T16:04:32,Dang ky thanh cong,01,100.0,Capture + Fingerprint + Relay + Train,Dang su dung,Khong,event_snapshots/20260521_160432_register_success_01.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-21T16:05:18,Huy lay do,,0.0,,Khong doi,Khong,,Nguoi dung huy thao tac lay do
+2026-05-21T16:06:47,Dang ky that bai,02,0.0,Face + Fingerprint,Khong doi,Khong,event_snapshots/20260521_160647_register_failed_02.jpg,Hai lan quet van tay khong giong nhau.
+2026-05-21T16:08:22,Dang ky thanh cong,02,100.0,Capture + Fingerprint + Relay + Train,Dang su dung,Khong,event_snapshots/20260521_160822_register_success_02.jpg,Dang ky khuon mat va mo tu thanh cong cho Vat dung gui
+2026-05-21T16:10:34,Huy gui do,,0.0,,Khong doi,Khong,,Nguoi dung huy thao tac gui do
+2026-05-21T16:11:12,Lay do tam thoi,01,82.8,DeepEmbedding_L2 + Fingerprint,Dang su dung,Khong,event_snapshots/20260521_161112_take_temporary_01.jpg,Lay do tam thoi thanh cong
